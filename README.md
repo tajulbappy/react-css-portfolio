@@ -4,7 +4,7 @@ A clean, modern, and responsive **developer portfolio website** built with **Rea
 
 ## 🚀 Live Demo
 
-🔗 [View Live Portfolio](https://your-portfolio-url.com)
+🔗 [View Live Portfolio](https://portfolio-website25.netlify.app/)
 
 ---
 
@@ -38,7 +38,7 @@ A clean, modern, and responsive **developer portfolio website** built with **Rea
 
 Author
 Md. Tajul Islam
-🌐 Portfolio Website
+🌐 [Portfolio Website](https://tajulbappy.netlify.app/)
 📧 bappy042@gmail.com
 👨‍💻 [GitHub](https://github.com/tajulbappy)
 
